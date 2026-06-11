@@ -1,4 +1,4 @@
-name: base
+name: automatic-1111
 channels:
   - conda-forge
   - defaults
